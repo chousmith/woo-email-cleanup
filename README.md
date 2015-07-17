@@ -1,5 +1,5 @@
 # woo-email-cleanup
-Hooks to some Woo Commerce Pretty Email filter &amp; action to tweak an email or 2 better, mainly for goroll.com. But here for reference &amp; example
+Hooks to some Woo Commerce Pretty Email filter &amp; action to tweak an email or 2 better, mainly for goroll.com. Also follows http://businessbloomer.com/woocommerce-limit-shipping-one-state/ to add functionality to disallow shipping to the state of North Carolina. Here for reference &amp; example.
 
 Installation Note
 
